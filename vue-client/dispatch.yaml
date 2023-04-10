@@ -1,0 +1,5 @@
+dispatch:
+- url: "www.client.com/*"
+  service: default
+- url: "client.com/*"
+  service: default
